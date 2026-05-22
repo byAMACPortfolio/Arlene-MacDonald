@@ -1,6 +1,6 @@
 # Arlene M. MacDonald
 
-Project & Program Manager | Customer Onboarding | BI Reporting | Dashboard Storytelling
+Customer Onboarding & Implementation Project Manager | BI Reporting | Operational Transformation
 
 Gilbert, AZ  
 linkedin.com/in/arlenemacdonald | public.tableau.com 

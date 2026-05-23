@@ -3,7 +3,7 @@
 Customer Onboarding & Implementation Project Manager | BI Reporting | Operational Transformation
 
 Gilbert, AZ  
-linkedin.com/in/arlenemacdonald | public.tableau.com 
+linkedin.com/in/arlenemacdonald | public.tableau.com | https:/github.com/byAMACPortfolio/Arlene-MacDonald/blob/800200eaac7633d2057cd6e73fad8ee861c931d8/README.md
 
 ---
 

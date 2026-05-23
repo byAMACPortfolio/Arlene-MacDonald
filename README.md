@@ -124,20 +124,10 @@ Recommendation from Sprint Global Account Manager supporting Intel enterprise de
 
 # Technical Skills
 
-- Tableau
-- SQL
-- Excel
-- KPI Reporting
-- Dashboard Storytelling
-- Salesforce CRM
-- Smartsheet
-- JIRA
-- Process Improvement
-- Customer Onboarding
-- Operational Reporting
+Tableau | SQL (Microsoft & Oracle) | Excel (Pivot Tables, VLOOKUP, KPI Reporting) | Dashboard Development & Data Storytelling | Business Intelligence & Operational Analytics | KPI Tracking & Executive Reporting | Salesforce CRM | Smartsheet & JIRA | Customer Onboarding & Implementation Management | SaaS & Support Operations | Process Documentation & Workflow Optimization | Unified Communications (VoIP, PBX, Mobile Extension) | Operational Reporting | Technical Troubleshooting & Issue Resolution
 
 ---
 
 # Resume
 
-📄 (https://docs.google.com/document/d/1K2SfTJWdWyLEoILAS4nrq7A_04CoNPn4IZvRNmMINIY/edit?usp=drive_link)]
+📄 (https://docs.google.com/document/d/1K2SfTJWdWyLEoILAS4nrq7A_04CoNPn4IZvRNmMINIY/edit?usp=drive_link)

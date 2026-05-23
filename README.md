@@ -64,49 +64,49 @@ One featured initiative supported Intel’s nationwide semiconductor manufacturi
 ### Intel Ronler Acres PTT DAS Master Schedule Poster
 Campus deployment communication materials and deployment scheduling poster utilized throughout Intel Ronler Acres common areas supporting enterprise onboarding and deployment coordination.
 
-🔗 [View Artifact](PASTE-LINK-HERE)
+🔗 (https://docs.google.com/document/d/1Qj2-Ie8ELxkp7hOM912NgD4l1hW1VRhShbGNgnkGsY8/edit?usp=drive_link)
 
 ---
 
 ### CIM Boilerplate MS Project Plan
 Enterprise implementation project plan template outlining onboarding milestones, deployment readiness, stakeholder coordination, training schedules, provisioning activities, fulfillment operations, and operational governance.
 
-🔗 [View Artifact](PASTE-LINK-HERE)
+🔗 (https://docs.google.com/spreadsheets/d/1MjnoGbZ7ejjbbSyOu1AwP2tU9sHC8lVM/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
 
 ---
 
 ### Intel Implementation Specification Plan
 Comprehensive implementation planning document supporting Intel’s enterprise mobility transformation initiative, including onboarding strategy, deployment governance, risk mitigation, operational readiness, customer training, and deployment execution activities.
 
-🔗 [View Artifact](PASTE-LINK-HERE)
+🔗 (https://docs.google.com/document/d/1l5YeHGcGkQwD3EOwzYat5_XQRbnxzy3L/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
 
 ---
 
 ### Sprint Network Planned & Unplanned Service Outage Process Flow
 Operational process flow diagram outlining escalation handling, outage management procedures, communication workflows, and operational response coordination.
 
-🔗 [View Artifact](PASTE-LINK-HERE)
+🔗 (https://docs.google.com/presentation/d/1EDjN_hZRckJpYUg82-0_DGZ23rgmI7Mr/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
 
 ---
 
 ### Intel / Sprint Joint Risk Assessment & Mitigation Plan
 Collaborative enterprise risk assessment framework identifying deployment risks, mitigation strategies, escalation procedures, operational dependencies, and deployment readiness planning.
 
-🔗 [View Artifact](PASTE-LINK-HERE)
+🔗 (https://docs.google.com/spreadsheets/d/1qD8c2x8yxB5q9f50s6OFXkorAF6rluW9/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
 
 ---
 
 ### TCV & ARPU Contract Tracking Portfolio
 Operational tracking portfolio highlighting Total Contract Value (TCV), Average Revenue Per Unit (ARPU), deployment governance, and management of 40–50 concurrent enterprise implementation projects.
 
-🔗 [View Artifact](PASTE-LINK-HERE)
+🔗 (https://docs.google.com/spreadsheets/d/1hrJSDZrtVa4UX7LmkG9lyEoWojX2fDbM/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
 
 ---
 
 ### Letter of Recommendation — David Peck
 Recommendation from Sprint Global Account Manager supporting Intel enterprise deployments from 2007–2011, highlighting leadership across nationwide semiconductor manufacturing implementations, operational governance, deployment scalability, customer communication, and enterprise mobility execution supporting more than 30,000 wireless device deployments.
 
-🔗 [View Recommendation](PASTE-LINK-HERE)
+🔗 (https://drive.google.com/file/d/1tXXhOm2cvCp8vrZB1CeCfOC4gOof2uPY/view?usp=drive_link)
 
 ---
 

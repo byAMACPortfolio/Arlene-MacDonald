@@ -61,6 +61,39 @@ One featured initiative supported Intel’s nationwide semiconductor manufacturi
 
 ## Deployment & Onboarding Artifacts
 
+## Intel Semiconductor Manufacturing Pilot Program | IDEN Nextel Mobility Deployment
+
+Led implementation planning, operational readiness, and deployment execution supporting Intel’s semiconductor manufacturing mobility transformation initiative and pager replacement program across fabrication (FAB) environments.
+
+This pilot program validated low-RF iDEN Nextel radio handset technology designed to safely operate within Intel semiconductor manufacturing facilities without interfering with sensitive fabrication equipment or operational processes.
+
+The initial proof-of-concept (POC) deployment was successfully launched at Intel’s Rio Rancho, New Mexico fabrication campus and served as a foundational deployment model supporting future enterprise mobility rollouts across additional Intel manufacturing locations.
+
+### Program Highlights
+- Led proof-of-concept (POC) deployment initiatives supporting Intel FAB manufacturing environments
+- Supported validation of low-RF IDEN mobility devices for operational safety and enterprise communications within semiconductor fabrication facilities
+- Coordinated deployment planning, onboarding readiness, training schedules, device staging, provisioning, and rollout execution
+- Managed deployment governance activities including risk assessments, implementation planning, executive status reporting, operational readiness, and stakeholder coordination
+- Supported integration of push-to-talk (PTT), enterprise mobility, and manufacturing communication workflows replacing legacy pager systems
+- Coordinated cross-functional stakeholders including Intel IT, production operations, Sprint engineering, Bluefish support teams, deployment leads, and technical program managers
+- Developed implementation specification plans, project schedules, process flows, deployment communication plans, and operational governance documentation
+- Supported nationwide deployment scalability across Intel campuses in New Mexico, Oregon, Arizona, and Massachusetts
+
+🔗 (https://docs.google.com/document/d/1T9w9t_JqkiBleSISCmei0cqaG0EpFy0E/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+
+---
+
+### Portfolio Artifacts Included
+- Intel Rio Rancho Implementation Specification Plan
+- Intel/Sprint Joint Risk Assessment & Mitigation Plan
+- CIM Boilerplate MS Project Plan
+- Executive Deployment Status Reports (R/Y/G Dashboards)
+- Device Deployment & Training Schedules
+- Deployment Process Flows & Operational Governance Documents
+- TCV & ARPU Contract Tracking Portfolio
+- Stakeholder Communication & Escalation Frameworks
+- Intel Ronler Acres PTT DAS Deployment Schedule Posters
+
 ### Intel Ronler Acres PTT DAS Master Schedule Poster
 Campus deployment communication materials and deployment scheduling poster utilized throughout Intel Ronler Acres common areas supporting enterprise onboarding and deployment coordination.
 

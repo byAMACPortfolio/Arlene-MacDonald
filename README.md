@@ -109,6 +109,13 @@ Recommendation from Sprint Global Account Manager supporting Intel enterprise de
 🔗 (https://drive.google.com/file/d/1tXXhOm2cvCp8vrZB1CeCfOC4gOof2uPY/view?usp=drive_link)
 
 ---
+### Intel Rio Rancho Device Deployment Status Reporting
+
+Executive deployment status reporting artifacts developed to provide Sprint and Intel leadership with real-time visibility into enterprise deployment progress, milestone execution, operational readiness, and implementation risk management activities supporting Intel’s semiconductor manufacturing mobility initiative.
+
+(https://docs.google.com/spreadsheets/d/1FmfyzOeXVD7xUbAFirs2uVb5NCTaVamj/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+
+---
 
 # Core Capabilities Demonstrated
 - Enterprise Implementation Management

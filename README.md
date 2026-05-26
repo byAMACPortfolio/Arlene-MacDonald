@@ -65,7 +65,7 @@ One featured initiative supported Intel’s nationwide semiconductor manufacturi
 
 Led implementation planning, operational readiness, and deployment execution supporting Intel’s semiconductor manufacturing mobility transformation initiative and pager replacement program across fabrication (FAB) environments.
 
-This pilot program validated low-RF iDEN Nextel radio handset technology designed to safely operate within Intel semiconductor manufacturing facilities without interfering with sensitive fabrication equipment or operational processes.
+This pilot program validated low-RF IDEN Nextel radio handset technology designed to safely operate within Intel semiconductor manufacturing facilities without interfering with sensitive fabrication equipment or operational processes.
 
 The initial proof-of-concept (POC) deployment was successfully launched at Intel’s Rio Rancho, New Mexico fabrication campus and served as a foundational deployment model supporting future enterprise mobility rollouts across additional Intel manufacturing locations.
 
@@ -75,7 +75,7 @@ The initial proof-of-concept (POC) deployment was successfully launched at Intel
 - Coordinated deployment planning, onboarding readiness, training schedules, device staging, provisioning, and rollout execution
 - Managed deployment governance activities including risk assessments, implementation planning, executive status reporting, operational readiness, and stakeholder coordination
 - Supported integration of push-to-talk (PTT), enterprise mobility, and manufacturing communication workflows replacing legacy pager systems
-- Coordinated cross-functional stakeholders including Intel IT, production operations, Sprint engineering, Bluefish support teams, deployment leads, and technical program managers
+- Coordinated cross-functional stakeholders including Intel IT, production operations, Sprint engineering, 3rd party integrator (Partner - Bluefish support teams), deployment leads, and technical program managers
 - Developed implementation specification plans, project schedules, process flows, deployment communication plans, and operational governance documentation
 - Supported nationwide deployment scalability across Intel campuses in New Mexico, Oregon, Arizona, and Massachusetts
 

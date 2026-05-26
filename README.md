@@ -111,7 +111,7 @@ Enterprise implementation project plan template outlining onboarding milestones,
 ### Intel Implementation Specification Plan
 Comprehensive implementation planning document supporting Intel’s enterprise mobility transformation initiative, including onboarding strategy, deployment governance, risk mitigation, operational readiness, customer training, and deployment execution activities.
 
-🔗 (https://docs.google.com/document/d/1l5YeHGcGkQwD3EOwzYat5_XQRbnxzy3L/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+🔗 (https://docs.google.com/document/d/1wPovp3uRXQvoD2kU0MWS_e7m9NaSp_r1/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
 
 ---
 

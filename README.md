@@ -100,6 +100,34 @@ Campus deployment communication materials and deployment scheduling poster utili
 🔗 (https://docs.google.com/document/d/1Qj2-Ie8ELxkp7hOM912NgD4l1hW1VRhShbGNgnkGsY8/edit?usp=drive_link)
 
 ---
+## Enterprise RFP & Implementation Governance Artifacts
+
+Supported enterprise Request for Proposal (RFP), implementation specification, and operational governance initiatives for large-scale wireless mobility and communications modernization programs supporting complex customer environments including hospitality, manufacturing, and enterprise campus deployments.
+
+These initiatives involved cross-functional coordination between engineering, operations, PMO, training, infrastructure, security, billing, and customer leadership teams to support deployment readiness, operational continuity, compliance, and enterprise mobility integration efforts.
+
+### Key Areas of Involvement
+- Enterprise implementation specifications & technical requirements
+- Operational readiness & deployment governance
+- PBX, Mobile Extension, VoIP, and wireless communications integration
+- SLA coordination & escalation management
+- Failover strategy & operational continuity planning
+- Training governance & end-user onboarding readiness
+- Deployment process flows & implementation documentation
+- Executive status reporting & stakeholder coordination
+- Infrastructure deployment support & implementation planning
+- Risk mitigation & supportability planning
+- KPI tracking & operational reporting
+- Vendor, engineering, and customer coordination
+
+### Example Portfolio Artifacts
+- Request for Proposal (RFP) Response Documentation
+
+This artifact reflects real-world enterprise implementation governance, customer onboarding strategy, operational planning, and large-scale deployment coordination supporting nationwide mobility and communications initiatives.
+
+🔗 (https://docs.google.com/document/d/1ETa7ZJX9bu6kDLCjd2VD2KMWHBUD4D3X/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+
+---
 
 ### CIM Boilerplate MS Project Plan
 Enterprise implementation project plan template outlining onboarding milestones, deployment readiness, stakeholder coordination, training schedules, provisioning activities, fulfillment operations, and operational governance.

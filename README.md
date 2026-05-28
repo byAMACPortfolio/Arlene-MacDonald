@@ -17,7 +17,7 @@ Throughout my career, I have led enterprise deployment programs, SaaS migrations
 
 Currently expanding my technical and analytical capabilities through Business Intelligence training at TripleTen, focused on Tableau, SQL, Power BI, dashboard development, KPI visualization, and data storytelling to support data-driven operational insights and business decision-making.
 
-# BUSINESS INTELLIGENCE & ANALYTICS PORTFOLIO
+# Business Intelligence & Analytics Portfolio
 
 ## Superstore Returns Analysis
 **Tools:** Tableau, KPI Reporting, Dashboard Storytelling

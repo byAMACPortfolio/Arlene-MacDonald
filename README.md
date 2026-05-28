@@ -146,7 +146,7 @@ Comprehensive implementation planning document supporting Intel’s enterprise m
 ### Sprint Network Planned & Unplanned Service Outage Process Flow
 Operational process flow diagram outlining escalation handling, outage management procedures, communication workflows, and operational response coordination.
 
-🔗 (https://docs.google.com/presentation/d/1EDjN_hZRckJpYUg82-0_DGZ23rgmI7Mr/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+🔗(https://docs.google.com/presentation/d/1Ts3LDSic0wEzVlFdD3eKkZA2CmWW-oUY/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
 
 ---
 

@@ -135,20 +135,15 @@ Created a scalable implementation methodology supporting deployment readiness, w
 # Deployment & Onboarding Portfolio Artifacts
 
 ### Artifacts Included
-- Intel Rio Rancho Implementation Specification Plan
-- Intel/Sprint Joint Risk Assessment & Mitigation Plan
+- Enterprise RFP & Implementation Governance Artifacts
 - CIM Boilerplate MS Project Plan
-- Executive Deployment Status Reports (R/Y/G Dashboards)
-- Device Deployment & Training Schedules
-- Deployment Process Flows & Operational Governance Documents
+- Intel Implementation Specification Plan
+- Sprint Network Planned & Unplanned Service Outage Process Flow
+- Risk Assessment & Mitigation Plan
 - TCV & ARPU Contract Tracking Portfolio
-- Stakeholder Communication & Escalation Frameworks
-- Intel Ronler Acres PTT DAS Deployment Schedule Posters
-
-### Intel Ronler Acres PTT DAS Master Schedule Poster
-Campus deployment communication materials and deployment scheduling poster utilized throughout Intel Ronler Acres common areas supporting enterprise onboarding and deployment coordination.
-
-🔗 (https://docs.google.com/document/d/1Qj2-Ie8ELxkp7hOM912NgD4l1hW1VRhShbGNgnkGsY8/edit?usp=drive_link)
+- Letter of Recommendation — David Peck
+- Intel Deployment Status Reporting
+- Intel Ronler Acres PTT DAS Master Schedule Poster
 
 ---
 ## Enterprise RFP & Implementation Governance Artifacts
@@ -226,6 +221,13 @@ Recommendation from Sprint Global Account Manager supporting Intel enterprise de
 Executive deployment status reporting artifacts developed to provide Sprint and Intel leadership with real-time visibility into enterprise deployment progress, milestone execution, operational readiness, and implementation risk management activities supporting Intel’s semiconductor manufacturing mobility initiative.
 
 (https://docs.google.com/spreadsheets/d/1FmfyzOeXVD7xUbAFirs2uVb5NCTaVamj/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+
+---
+
+### Intel Ronler Acres PTT DAS Master Schedule Poster
+Campus deployment communication materials and deployment scheduling poster utilized throughout Intel Ronler Acres common areas supporting enterprise onboarding and deployment coordination.
+
+🔗 (https://docs.google.com/document/d/1Qj2-Ie8ELxkp7hOM912NgD4l1hW1VRhShbGNgnkGsY8/edit?usp=drive_link)
 
 ---
 

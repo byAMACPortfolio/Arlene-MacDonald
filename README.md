@@ -172,7 +172,7 @@ These initiatives involved cross-functional coordination between engineering, op
 
 This artifact reflects real-world enterprise implementation governance, customer onboarding strategy, operational planning, and large-scale deployment coordination supporting nationwide mobility and communications initiatives.
 
-🔗 [Enterprise RFP & Implementation Governance Artifact] (https://docs.google.com/document/d/1ETa7ZJX9bu6kDLCjd2VD2KMWHBUD4D3X/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+🔗 [Enterprise RFP & Implementation Governance Artifact] (Placeholder)
 
 ---
 

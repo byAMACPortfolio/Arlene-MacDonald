@@ -191,8 +191,9 @@ Created a scalable implementation methodology supporting deployment readiness, w
 🔗 (https://drive.google.com/file/d/1epoho3ThDUkYlb1OsAbJIumjdktpvgPB/view?usp=drive_link)
 
 ```
+# Deployment & Onboarding Portfolio Artifacts
 
-### Portfolio Artifacts Included
+### Artifacts Included
 - Intel Rio Rancho Implementation Specification Plan
 - Intel/Sprint Joint Risk Assessment & Mitigation Plan
 - CIM Boilerplate MS Project Plan

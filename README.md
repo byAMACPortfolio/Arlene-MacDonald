@@ -55,7 +55,7 @@ Collection of enterprise implementation, customer onboarding, deployment governa
 
 # Included Portfolio Artifacts
 
-## Intel Semiconductor Manufacturing Pilot Program | IDEN Nextel Mobility Deployment
+## Semiconductor Manufacturing Pilot Program | IDEN Nextel Mobility Deployment
 
 ## Project Overview
 Led implementation planning, operational readiness, and deployment execution supporting a semiconductor manufacturer's enterprise mobility transformation initiative and pager replacement program across fabrication (FAB) environments.
@@ -166,8 +166,9 @@ These initiatives involved cross-functional coordination between engineering, op
 - KPI tracking & operational reporting
 - Vendor, engineering, and customer coordination
 
-### Example Portfolio Artifacts
-- Request for Proposal (RFP) Response Documentation
+## Example Portfolio Artifacts
+
+### Request for Proposal (RFP) Response Documentation
 
 This artifact reflects real-world enterprise implementation governance, customer onboarding strategy, operational planning, and large-scale deployment coordination supporting nationwide mobility and communications initiatives.
 
@@ -178,14 +179,14 @@ This artifact reflects real-world enterprise implementation governance, customer
 ### CIM Boilerplate MS Project Plan
 Enterprise implementation project plan template outlining onboarding milestones, deployment readiness, stakeholder coordination, training schedules, provisioning activities, fulfillment operations, and operational governance.
 
-🔗 (https://docs.google.com/spreadsheets/d/1MjnoGbZ7ejjbbSyOu1AwP2tU9sHC8lVM/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+🔗[CIM Boilerplate MS Project Plan] (https://docs.google.com/spreadsheets/d/1MjnoGbZ7ejjbbSyOu1AwP2tU9sHC8lVM/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
 
 ---
 
-### Intel Implementation Specification Plan
+### Semi-Conductor Manufacturer Implementation Specification Plan
 Comprehensive implementation planning document supporting Intel’s enterprise mobility transformation initiative, including onboarding strategy, deployment governance, risk mitigation, operational readiness, customer training, and deployment execution activities.
 
-🔗 (https://docs.google.com/document/d/1wPovp3uRXQvoD2kU0MWS_e7m9NaSp_r1/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+🔗 [Semi-Conductor Manufacturer Implementation Specification Plan] (https://docs.google.com/document/d/1wPovp3uRXQvoD2kU0MWS_e7m9NaSp_r1/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
 
 ---
 

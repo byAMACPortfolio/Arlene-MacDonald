@@ -130,7 +130,7 @@ Created a scalable implementation methodology supporting deployment readiness, w
 • Operational Communications & Talk Group Governance
 • Project Artifacts & Supporting Documentation
 
-🔗 [Intel RR Implementation Specification Plan] (https://docs.google.com/document/d/1T9w9t_JqkiBleSISCmei0cqaG0EpFy0E/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+🔗 [Intel RR Implementation Specification Plan] (https://docs.google.com/document/d/1nHZXHecUmKjV1ZOoM6C2iSXZ7u5wxebe/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
 
 # Deployment & Onboarding Portfolio Artifacts
 
@@ -142,7 +142,7 @@ Created a scalable implementation methodology supporting deployment readiness, w
 - Risk Assessment & Mitigation Plan
 - TCV & ARPU Contract Tracking Portfolio
 - Letter of Recommendation — David Peck
-- Intel Deployment Status Reporting
+- Deployment Status Reporting
 - Intel Ronler Acres PTT DAS Master Schedule Poster
 
 ---
@@ -197,7 +197,7 @@ Operational process flow diagram outlining escalation handling, outage managemen
 
 ---
 
-### Intel / Sprint Joint Risk Assessment & Mitigation Plan
+### Risk Assessment & Mitigation Plan
 Collaborative enterprise risk assessment framework identifying deployment risks, mitigation strategies, escalation procedures, operational dependencies, and deployment readiness planning.
 
 🔗 (https://docs.google.com/spreadsheets/d/1qD8c2x8yxB5q9f50s6OFXkorAF6rluW9/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
@@ -217,7 +217,7 @@ Recommendation from Sprint Global Account Manager supporting Intel enterprise de
 🔗 (https://drive.google.com/file/d/1tXXhOm2cvCp8vrZB1CeCfOC4gOof2uPY/view?usp=drive_link)
 
 ---
-### Intel Rio Rancho Device Deployment Status Reporting
+### Deployment Status Reporting
 
 Executive deployment status reporting artifacts developed to provide Sprint and Intel leadership with real-time visibility into enterprise deployment progress, milestone execution, operational readiness, and implementation risk management activities supporting Intel’s semiconductor manufacturing mobility initiative.
 

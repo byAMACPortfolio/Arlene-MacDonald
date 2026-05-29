@@ -182,7 +182,7 @@ Created a scalable implementation methodology supporting deployment readiness, w
 • Operational Communications & Talk Group Governance
 • Project Artifacts & Supporting Documentation
 
-🔗 (https://drive.google.com/file/d/1epoho3ThDUkYlb1OsAbJIumjdktpvgPB/view?usp=drive_link)
+🔗 (https://docs.google.com/document/d/1nHZXHecUmKjV1ZOoM6C2iSXZ7u5wxebe/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
 
 # Deployment & Onboarding Portfolio Artifacts
 

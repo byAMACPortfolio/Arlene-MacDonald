@@ -45,15 +45,11 @@ Evaluated customer conversion funnels and retention trends to identify drop-off 
 🔗(https://docs.google.com/spreadsheets/d/1rH5id1_FTRvUH5ytLuXGTPKGu7AtkbB_lnBlgT6E4Qk/edit?usp=drive_link)
 
 ---
-# Implementation & Project Management Artifacts
+# Customer Onboarding, Implementation & Operational Readiness Portfolio
 
-## Enterprise Implementation & Onboarding Portfolio
+## Enterprise Implementation & Onboarding Portfolio 
 
-Collection of enterprise implementation, onboarding, deployment governance, and operational readiness artifacts developed while leading large-scale Sprint enterprise mobility and wireless deployment programs supporting manufacturing, healthcare, hospitality, entertainment, and enterprise campus environments.
-
-Portfolio highlights include implementation strategy, onboarding execution, deployment governance, KPI tracking, stakeholder coordination, process standardization, risk mitigation, customer training, and operational support readiness across geographically dispersed enterprise environments.
-
-One featured initiative supported Intel’s nationwide semiconductor manufacturing mobility transformation and pager replacement program, including integration of iDEN wireless devices, push-to-talk (PTT), in-building DAS connectivity, Mobile Extension capabilities, and enterprise communication workflows supporting operational continuity across multiple fabrication campuses.
+Collection of enterprise implementation, customer onboarding, deployment governance, operational readiness, change management, and workforce enablement artifacts developed while leading large-scale mobility, communications, and operational transformation initiatives. These deliverables demonstrate the methodologies, governance structures, training programs, escalation frameworks, and stakeholder management practices required to successfully deploy, onboard, and support enterprise customers at scale.
 
 ---
 
@@ -147,23 +143,20 @@ The implementation framework was designed to support a phased transition to a ne
 
 ---
 
-## Skills Demonstrated
+# Core Capabilities Demonstrated
 
-* Implementation Management
-* Customer Onboarding
-* Deployment Governance
-* Operational Readiness
-* PMO Methodologies
-* Change Management
-* Escalation Management
-* Workforce Enablement
-* Stakeholder Management
-* Training Strategy Development
-* Process Improvement
-* Business Process Documentation
-* Risk Management
-* Enterprise Communications Planning
-* Change Management
+- Customer Onboarding & Adoption
+- Enterprise Implementation Management
+- Change Management
+- Operational Readiness
+- Deployment Governance
+- Cross-Functional Program Leadership
+- Business Process Improvement
+- KPI Reporting & Business Intelligence
+- Executive Communication & Stakeholder Management
+- Training & Workforce Enablement
+- Risk Mitigation & Escalation Management
+- Multi-Site Deployment Coordination
 
 ---
 

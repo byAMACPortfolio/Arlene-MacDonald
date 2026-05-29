@@ -143,20 +143,21 @@ The implementation framework was designed to support a phased transition to a ne
 
 ---
 
-# Core Capabilities Demonstrated
-
-- Customer Onboarding & Adoption
-- Enterprise Implementation Management
-- Change Management
-- Operational Readiness
-- Deployment Governance
-- Cross-Functional Program Leadership
-- Business Process Improvement
-- KPI Reporting & Business Intelligence
-- Executive Communication & Stakeholder Management
-- Training & Workforce Enablement
-- Risk Mitigation & Escalation Management
-- Multi-Site Deployment Coordination
+## Skills Demonstrated
+Implementation Management
+Customer Onboarding
+Deployment Governance
+Operational Readiness
+PMO Methodologies
+Change Management
+Escalation Management
+Workforce Enablement
+Stakeholder Management
+Training Strategy Development
+Process Improvement
+Business Process Documentation
+Risk Management
+Enterprise Communications Planning
 
 ---
 

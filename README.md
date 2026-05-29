@@ -184,7 +184,6 @@ Created a scalable implementation methodology supporting deployment readiness, w
 
 🔗 (https://drive.google.com/file/d/1epoho3ThDUkYlb1OsAbJIumjdktpvgPB/view?usp=drive_link)
 
-```
 # Deployment & Onboarding Portfolio Artifacts
 
 ### Artifacts Included

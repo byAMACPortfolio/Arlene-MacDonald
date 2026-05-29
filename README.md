@@ -146,7 +146,7 @@ Created a scalable implementation methodology supporting deployment readiness, w
 - Intel Ronler Acres PTT DAS Master Schedule Poster
 
 ---
-## Enterprise RFP & Implementation Governance Artifacts
+## Enterprise RFP & Implementation Governance Artifact
 
 Supported enterprise Request for Proposal (RFP), implementation specification, and operational governance initiatives for large-scale wireless mobility and communications modernization programs supporting complex customer environments including hospitality, manufacturing, and enterprise campus deployments.
 
@@ -171,7 +171,7 @@ These initiatives involved cross-functional coordination between engineering, op
 
 This artifact reflects real-world enterprise implementation governance, customer onboarding strategy, operational planning, and large-scale deployment coordination supporting nationwide mobility and communications initiatives.
 
-🔗 (https://docs.google.com/document/d/1ETa7ZJX9bu6kDLCjd2VD2KMWHBUD4D3X/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+🔗 [Enterprise RFP & Implementation Governance Artifact] (https://docs.google.com/document/d/1ETa7ZJX9bu6kDLCjd2VD2KMWHBUD4D3X/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
 
 ---
 

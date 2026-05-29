@@ -74,7 +74,7 @@ Following the successful pilot deployment, I was selected to support subsequent 
 - Developed implementation specification plans, project schedules, process flows, deployment communication plans, and operational governance documentation
 - Supported nationwide deployment scalability across Intel campuses in New Mexico, Oregon, Arizona, and Massachusetts
 
-🔗 (https://docs.google.com/document/d/1T9w9t_JqkiBleSISCmei0cqaG0EpFy0E/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+🔗 [View Implementation Plan] (https://docs.google.com/document/d/1T9w9t_JqkiBleSISCmei0cqaG0EpFy0E/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
 
 ---
 
@@ -130,7 +130,7 @@ Created a scalable implementation methodology supporting deployment readiness, w
 • Operational Communications & Talk Group Governance
 • Project Artifacts & Supporting Documentation
 
-🔗 (https://docs.google.com/document/d/1nHZXHecUmKjV1ZOoM6C2iSXZ7u5wxebe/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+🔗 [Intel RR Implementation Specification Plan] (https://docs.google.com/document/d/1T9w9t_JqkiBleSISCmei0cqaG0EpFy0E/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
 
 # Deployment & Onboarding Portfolio Artifacts
 

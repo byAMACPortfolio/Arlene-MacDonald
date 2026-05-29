@@ -1,6 +1,6 @@
 # Arlene M. MacDonald
 
-Customer Onboarding & Implementation Project Manager | BI Reporting | Operational Transformation
+Customer Onboarding & Implementation Manager | Change Management | Business Intelligence & Operational Analytics
 
 Gilbert, AZ  
 linkedin.com/in/arlenemacdonald | public.tableau.com | README.md
@@ -9,15 +9,15 @@ linkedin.com/in/arlenemacdonald | public.tableau.com | README.md
 
 ## About Me
 
-Project Manager and Business Intelligence professional with experience leading cross-functional initiatives that improve operational performance, customer onboarding, reporting visibility, and service delivery across technology, telecommunications, VoIP, and customer operations environments.
+Implementation and Customer Onboarding professional with extensive experience leading enterprise deployments, operational transformations, customer adoption initiatives, and cross-functional implementation programs across telecommunications, technology, mobility, and customer operations environments.
 
-Skilled in project management, operational strategy, business analytics, and process optimization with a strong focus on transforming complex business challenges into actionable, data-driven solutions. Experienced partnering across business and technical teams to streamline workflows, improve operational efficiency, enhance reporting visibility, and support decision-making through KPI reporting, dashboard storytelling, and operational analytics.
+Experienced in guiding customers from onboarding through deployment, operational readiness, training, adoption, and post-go-live support while partnering with business, technical, and executive stakeholders to drive successful outcomes.
 
-Throughout my career, I have led enterprise deployment programs, SaaS migrations, VoIP and enterprise connectivity implementations, onboarding initiatives, reporting modernization efforts, and operational transformation projects supporting enterprise, government, retail, and customer-facing organizations. Recognized for adaptability, collaboration, and strategic execution, I thrive in fast-paced environments managing multiple priorities while driving measurable business outcomes.
+Recognized for building scalable implementation frameworks, governance processes, training programs, operational support models, and reporting solutions that improve visibility, efficiency, and customer experience.
 
-Currently expanding my technical and analytical capabilities through Business Intelligence training at TripleTen, focused on Tableau, SQL, Power BI, dashboard development, KPI visualization, and data storytelling to support data-driven operational insights and business decision-making.
+Currently expanding my Business Intelligence and analytics capabilities through TripleTen, leveraging SQL, Tableau, KPI dashboards, and data storytelling to complement implementation management, change management, and operational transformation expertise.
 
-# Business Intelligence & Analytics Portfolio
+# Business Intelligence & Operational Analytics Portfolio
 
 ## Superstore Returns Analysis
 **Tools:** Tableau, KPI Reporting, Dashboard Storytelling

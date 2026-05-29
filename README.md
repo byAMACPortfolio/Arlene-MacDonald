@@ -63,13 +63,14 @@ One featured initiative supported Intel’s nationwide semiconductor manufacturi
 
 ## Intel Semiconductor Manufacturing Pilot Program | IDEN Nextel Mobility Deployment
 
+## Project Overview
 Led implementation planning, operational readiness, and deployment execution supporting Intel’s semiconductor manufacturing mobility transformation initiative and pager replacement program across fabrication (FAB) environments.
 
 This pilot program validated low-RF IDEN Nextel radio handset technology designed to safely operate within Intel semiconductor manufacturing facilities without interfering with sensitive fabrication equipment or operational processes.
 
 The initial proof-of-concept (POC) deployment was successfully launched at Intel’s Rio Rancho, New Mexico fabrication campus and served as a foundational deployment model supporting future enterprise mobility rollouts across additional Intel manufacturing locations.
 
-### Program Highlights
+### Key Deliverables
 - Led proof-of-concept (POC) deployment initiatives supporting Intel FAB manufacturing environments
 - Supported validation of low-RF IDEN mobility devices for operational safety and enterprise communications within semiconductor fabrication facilities
 - Coordinated deployment planning, onboarding readiness, training schedules, device staging, provisioning, and rollout execution

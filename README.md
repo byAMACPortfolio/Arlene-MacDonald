@@ -76,13 +76,13 @@ Following the successful pilot deployment, I was selected to support subsequent 
 - Developed implementation specification plans, project schedules, process flows, deployment communication plans, and operational governance documentation
 - Supported nationwide deployment scalability across Intel campuses in New Mexico, Oregon, Arizona, and Massachusetts
 
-### Repository Structure
-
 🔗 [View Implementation Plan] (placeholder)
 
 ---
 
-# Enterprise Mobility Implementation & Operational Readiness Plan
+## Major LA Theme Park & Resort Operations | RFP Compliance Check | Enterprise Mobility Implementation & Operational Readiness Plan
+
+# Included Portfolio Artifacts
 
 ## Project Overview
 
@@ -130,7 +130,7 @@ The implementation framework was designed to support a phased transition to a ne
 • Operational Communications & Talk Group Governance
 • Project Artifacts & Supporting Documentation
 
-🔗 [Intel RR Implementation Specification Plan] (https://docs.google.com/document/d/1nHZXHecUmKjV1ZOoM6C2iSXZ7u5wxebe/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+🔗 [View Implementation Plan] (placeholder)
 
 # Deployment & Onboarding Portfolio Artifacts
 

@@ -1,6 +1,8 @@
 # Arlene M. MacDonald
 
-Customer Onboarding & Implementation Manager | Change Management | Business Intelligence & Operational Analytics
+# Enterprise Implementation, Deployment, Customer Onboarding & Business Intelligence Portfolio
+
+Showcasing enterprise implementation management, deployment governance, customer onboarding, operational readiness, change management, workforce enablement, KPI reporting, business intelligence, and operational analytics initiatives.
 
 Gilbert, AZ  
 linkedin.com/in/arlenemacdonald | public.tableau.com | README.md
@@ -55,7 +57,7 @@ Collection of enterprise implementation, customer onboarding, deployment governa
 
 # Included Portfolio Artifacts
 
-## Semiconductor Manufacturing Pilot Program | IDEN Nextel Mobility Deployment
+## Intel RR Implementation Specifications | Semiconductor Manufacturing Pilot Program | IDEN Nextel Mobility Deployment
 
 ## Project Overview
 Led implementation planning, operational readiness, and deployment execution supporting a semiconductor manufacturer's enterprise mobility transformation initiative and pager replacement program across fabrication (FAB) environments.
@@ -74,7 +76,9 @@ Following the successful pilot deployment, I was selected to support subsequent 
 - Developed implementation specification plans, project schedules, process flows, deployment communication plans, and operational governance documentation
 - Supported nationwide deployment scalability across Intel campuses in New Mexico, Oregon, Arizona, and Massachusetts
 
-🔗 [View Implementation Plan] (https://docs.google.com/document/d/1T9w9t_JqkiBleSISCmei0cqaG0EpFy0E/edit?usp=drive_link&ouid=115809469771303067972&rtpof=true&sd=true)
+### Repository Structure
+
+🔗 [View Implementation Plan] (placeholder)
 
 ---
 
@@ -85,6 +89,8 @@ Following the successful pilot deployment, I was selected to support subsequent 
 Developed a comprehensive enterprise implementation blueprint supporting a large-scale mobility deployment across multiple business units. The project included deployment governance, onboarding strategy, operational readiness planning, workforce enablement, training delivery, escalation management, account administration, billing support, deployment logistics, and post-implementation support planning.
 
 The implementation framework was designed to support a phased transition to a new wireless communications platform while minimizing operational disruption and ensuring workforce readiness, stakeholder alignment, and long-term supportability.
+
+**Outcome**Created a scalable implementation methodology supporting deployment readiness, workforce adoption, operational continuity, and long-term supportability. This project demonstrates the ability to lead complex customer onboarding and implementation initiatives while coordinating cross-functional teams, governance processes, training programs, support organizations, and operational transformation activities.
 
 ---
 
@@ -106,12 +112,6 @@ The implementation framework was designed to support a phased transition to a ne
 - KPI reporting and operational visibility
 - PMO methodologies and governance processes
 - Business process improvement and workflow optimization
-
----
-
-## Business Outcome
-
-Created a scalable implementation methodology supporting deployment readiness, workforce adoption, operational continuity, and long-term supportability. This project demonstrates the ability to lead complex customer onboarding and implementation initiatives while coordinating cross-functional teams, governance processes, training programs, support organizations, and operational transformation activities.
 
 ### Repository Structure
 

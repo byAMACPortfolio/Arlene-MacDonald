@@ -128,7 +128,7 @@ Implementation Management • Customer Onboarding • Deployment Governance • 
 
 
 
-🔗 [View RFP Compliance & Requirements Validation Framework] (https://drive.google.com/file/d/1p8El1X5_D5LZ3FY2gV77342U67inA-6k/view?usp=drive_link)
+🔗 [View RFP Compliance & Requirements Validation Framework] (https://drive.google.com/file/d/1h_ssvNo9MNT2ZEktpuV1-kW7zgwwtfTg/view?usp=drive_link)
 
 ---
 

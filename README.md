@@ -61,6 +61,20 @@ Real-world case studies demonstrating how implementation governance, operational
 
 ## Case Study: Enterprise Mobility & Communications Transformation Program
 
+## Project Overview
+This case study showcases a large-scale enterprise mobility and communications modernization initiative supporting customer onboarding, deployment governance, operational readiness, workforce enablement, and communications transformation across a complex multi-site environment.
+
+Successful execution required collaboration among customer stakeholders, implementation teams, engineering resources, training organizations, operational support personnel, and third-party partners. Together, these teams developed a scalable deployment framework designed to support workforce adoption, operational continuity, and long-term operational success.
+
+This framework demonstrates the implementation methodologies, governance processes, onboarding strategies, deployment activities, training programs, support models, compliance validation, and operational readiness practices utilized to support successful enterprise mobility deployments.
+
+The artifacts included within this case study represent real-world implementation deliverables modernized for portfolio purposes while preserving the methodologies, collaboration, governance structures, and business outcomes achieved throughout the project lifecycle.
+
+## Implementation & Operational Readiness Framework
+This framework demonstrates the implementation methodologies, governance processes, onboarding strategies, deployment activities, training programs, support models, compliance validation, and operational readiness practices utilized to support successful enterprise mobility deployments.
+
+The artifacts included within this case study represent real-world implementation deliverables modernized for portfolio purposes while preserving the methodologies, collaboration, governance structures, and business outcomes achieved throughout the project lifecycle.
+
 ### Problem
 A major theme park and resort operations organization sought to modernize operational communications, improve workforce mobility, and replace legacy communication systems while maintaining seamless guest experiences and operational continuity across a large, multi-site environment. The organization required a scalable communications solution capable of supporting security, maintenance, transportation, operations, and leadership teams while integrating with existing operational workflows and support processes.
 

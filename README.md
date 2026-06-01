@@ -62,10 +62,10 @@ Real-world case studies demonstrating how implementation governance, operational
 ## Case Study: Enterprise Mobility & Communications Transformation Program
 
 ### Problem
-A large enterprise organization sought to modernize operational communications, improve workforce mobility, and replace legacy communication systems while maintaining operational continuity across multiple locations.
+A major theme park and resort operations organization sought to modernize operational communications, improve workforce mobility, and replace legacy communication systems while maintaining seamless guest experiences and operational continuity across a large, multi-site environment. The organization required a scalable communications solution capable of supporting security, maintenance, transportation, operations, and leadership teams while integrating with existing operational workflows and support processes.
 
 ### Solution
-Implemented an enterprise mobility and communications solution designed to enhance workforce communications, streamline operational processes, improve service delivery, and support long-term business objectives.
+Implemented an enterprise mobility and communications solution designed to enhance workforce communications, streamline operational coordination, improve service delivery, and support long-term operational objectives. The solution included deployment planning, workforce enablement, operational communications architecture, account management tools, reporting solutions, and ongoing support frameworks.
 
 ### Methodology
 •  Enterprise Implementation Management
@@ -90,11 +90,12 @@ Implemented an enterprise mobility and communications solution designed to enhan
 •  Operational Reporting & Readiness Assessments
 
 ### Results
-•  Successfully supported enterprise communications modernization initiatives
-•  Established scalable implementation and deployment methodologies
+•  Successfully supported communications modernization across a complex operational environment
+•  Established scalable implementation, onboarding, and deployment methodologies
 •  Improved deployment readiness, stakeholder alignment, and workforce adoption
 •  Developed governance frameworks supporting multi-site deployment activities
-•  Enabled operational continuity through structured onboarding, training, and support models
+•  Enabled operational continuity through structured onboarding, training, support, and escalation models
+•  Established operational communications structures supporting security, maintenance, transportation, and operational teams
 
 ### Portfolio Artifacts
 - Enterprise Implementation Specification Framework
@@ -106,9 +107,7 @@ Implemented an enterprise mobility and communications solution designed to enhan
 
 ---
 
-## Enterprise Implementation Specification | Semiconductor Manufacturing Mobility Transformation Program
-
-## Case Study: Enterprise Mobility & Communications Transformation Program
+## Case Study: Enterprise Mobility & Communications Modernization Program
 
 ### Problem
 A large semiconductor manufacturing organization sought to modernize workforce communications and replace legacy pager systems while maintaining operational continuity within highly controlled production environments. The organization required a scalable mobility solution capable of supporting real-time communications, workforce coordination, and future growth without impacting sensitive manufacturing operations, equipment, or production processes.

@@ -109,6 +109,16 @@ Implemented an enterprise mobility and communications solution designed to enhan
 
 ## Case Study: Enterprise Mobility & Communications Modernization Program
 
+## Project Overview
+This case study highlights a large-scale enterprise mobility transformation initiative focused on customer onboarding, deployment governance, operational readiness, workforce enablement, and communications modernization across a complex multi-site environment.
+
+Success required close collaboration among customer stakeholders, implementation teams, engineering resources, training organizations, operational support personnel, and third-party partners. Together, these teams developed a scalable deployment framework designed to support workforce adoption, operational continuity, and long-term business success.
+
+## Implementation & Operational Readiness Framework
+This framework showcases the implementation methodologies, governance processes, onboarding strategies, deployment activities, training programs, support models, and operational readiness practices used to support successful enterprise mobility deployments.
+
+The artifacts included in this case study represent real-world project deliverables that have been modernized for portfolio purposes while preserving the methodologies, collaboration, and business outcomes achieved throughout the project lifecycle.
+
 ### Problem
 A large semiconductor manufacturing organization sought to modernize workforce communications and replace legacy pager systems while maintaining operational continuity within highly controlled production environments. The organization required a scalable mobility solution capable of supporting real-time communications, workforce coordination, and future growth without impacting sensitive manufacturing operations, equipment, or production processes.
 

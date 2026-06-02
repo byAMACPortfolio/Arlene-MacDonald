@@ -284,4 +284,4 @@ Tableau | SQL (Microsoft & Oracle) | Excel (Pivot Tables, VLOOKUP, KPI Reporting
 
 # Resume
 
-📄 ([https://docs.google.com/document/d/1K2SfTJWdWyLEoILAS4nrq7A_04CoNPn4IZvRNmMINIY/edit?usp=sharing](https://docs.google.com/document/d/1waCYjVgtJzkdDloSEFAte97Q9jPHAA4xaIRzcliy4Cs/edit?usp=sharing))
+📄 [View Updated Resume] (https://drive.google.com/file/d/1EpYvgognn3PAdZqce73FwmXqXySIM754/view?usp=drive_link)

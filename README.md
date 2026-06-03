@@ -97,6 +97,8 @@ The following artifacts have been modernized and generalized for portfolio purpo
 - Enterprise Implementation Specification Framework
 - RFP Compliance Requirements Validation Framework
 
+---
+
 ### Enterprise Implementation Specification Framework
 
 🔗 [View Implementation Plan] (Forthcoming)

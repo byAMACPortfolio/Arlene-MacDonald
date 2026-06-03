@@ -13,7 +13,7 @@ linkedin.com/in/arlenemacdonald | public.tableau.com | README.md
 
 ## Problem → Solution → Methodology → Deliverables → Results
 
-**Greetings & Salutations**  I am an Implementation and Customer Onboarding professional with extensive experience leading enterprise deployments, technology transformations, and customer adoption initiatives across telecommunications, mobility, technology, and customer operations environments.
+**Greetings & Salutations!**  My name is **Arlene MacDonald** and I'm an Implementation and Customer Onboarding professional with extensive experience leading enterprise deployments, technology transformations, and customer adoption initiatives across telecommunications, mobility, technology, and customer operations environments.
 
 Throughout my career, I have partnered with customers, product development teams, business leaders, technical organizations, and executive stakeholders to deliver successful implementations, operational readiness programs, workforce enablement initiatives, and long-term customer success.
 
@@ -21,7 +21,7 @@ As a servant leader, I believe in sharing knowledge and paying forward the tools
 
 As I continue to evolve professionally, I am expanding my Business Intelligence and Analytics toolkit through TripleTen's Business Intelligence Analytics Program, utilizing SQL, Tableau, dashboard development, KPI reporting, data visualization, and data storytelling. These projects reflect my commitment to continuous learning and demonstrate how data-driven insights can support strategic decision-making, operational excellence, and business growth.
 
-
+---
 # Business Intelligence & Operational Analytics Portfolio
 
 ## Superstore Returns Analysis

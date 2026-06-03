@@ -21,6 +21,11 @@ As a servant leader, I believe in sharing knowledge and paying forward the tools
 
 As I continue to evolve professionally, I am expanding my Business Intelligence and Analytics toolkit through TripleTen's Business Intelligence Analytics Program, utilizing SQL, Tableau, dashboard development, KPI reporting, data visualization, and data storytelling. These projects reflect my commitment to continuous learning and demonstrate how data-driven insights can support strategic decision-making, operational excellence, and business growth.
 
+Thank you for stopping by!
+
+-Arlene
+
+
 ---
 # Business Intelligence & Operational Analytics Portfolio
 

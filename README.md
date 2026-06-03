@@ -25,7 +25,7 @@ As I continue to evolve professionally, I am expanding my Business Intelligence 
 # Business Intelligence & Operational Analytics Portfolio
 
 ## Superstore Returns Analysis
-**Business Outsome:** Reduced business risk by identifying return drivers and operational improvement opportunities through customer, product, geographic, and seasonal trend analysis.
+**Business Outcome:** Reduced business risk by identifying return drivers and operational improvement opportunities through customer, product, geographic, and seasonal trend analysis.
 
 🔗 (https://public.tableau.com/views/Superstore_Returns_Analysis_byAMAC/SuperstoreReturnDriversExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 

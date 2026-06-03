@@ -58,55 +58,49 @@ Real-world case studies demonstrating how implementation governance, operational
 
 ## Case Study: Enterprise Mobility & Communications Transformation Program
 
-## Project Overview
-This case study showcases a large-scale enterprise mobility and communications modernization initiative supporting customer onboarding, deployment governance, operational readiness, workforce enablement, and communications transformation across a complex multi-site environment.
+## Case Study Summary
 
-Successful execution required collaboration among customer stakeholders, implementation teams, engineering resources, training organizations, operational support personnel, and third-party partners. Together, these teams developed a scalable deployment framework designed to support workforce adoption, operational continuity, and long-term operational success.
+### Situation
+A major hospitality and entertainment organization sought to modernize workforce communications and replace legacy communication systems across a complex multi-site environment.
 
-This framework demonstrates the implementation methodologies, governance processes, onboarding strategies, deployment activities, training programs, support models, compliance validation, and operational readiness practices utilized to support successful enterprise mobility deployments.
+### Challenge
+The organization required a scalable communications solution capable of supporting multiple operational departments while maintaining operational continuity, workforce readiness, and guest experience standards.
 
-The artifacts included within this case study represent real-world implementation deliverables modernized for portfolio purposes while preserving the methodologies, collaboration, governance structures, and business outcomes achieved throughout the project lifecycle.
+### Action
+Served as Customer Implementation Manager responsible for customer onboarding, deployment governance, operational readiness, workforce enablement, stakeholder communications, training coordination, and deployment execution support.
 
-## Implementation & Operational Readiness Framework
-This framework demonstrates the implementation methodologies, governance processes, onboarding strategies, deployment activities, training programs, support models, compliance validation, and operational readiness practices utilized to support successful enterprise mobility deployments.
-
-The artifacts included within this case study represent real-world implementation deliverables modernized for portfolio purposes while preserving the methodologies, collaboration, governance structures, and business outcomes achieved throughout the project lifecycle.
-
-### Problem
-A major theme park and resort operations organization sought to modernize operational communications, improve workforce mobility, and replace legacy communication systems while maintaining seamless guest experiences and operational continuity across a large, multi-site environment. The organization required a scalable communications solution capable of supporting security, maintenance, transportation, operations, and leadership teams while integrating with existing operational workflows and support processes.
-
-### Solution
-Implemented an enterprise mobility and communications solution designed to enhance workforce communications, streamline operational coordination, improve service delivery, and support long-term operational objectives. The solution included deployment planning, workforce enablement, operational communications architecture, account management tools, reporting solutions, and ongoing support frameworks.
-
-### Methodology
-•  Enterprise Implementation Management
-•  Customer Onboarding & Adoption
-•  Deployment Governance
-•  Operational Readiness Planning
-•  Workforce Enablement & Training
-•  Change Management
-•  Risk & Escalation Management
-•  Stakeholder Engagement
-•  Compliance Validation
-•  Service Delivery Planning
-
-### Deliverables
-•  Enterprise Implementation Specification Framework
-•  RFP Compliance Requirements Validation Framework
-•  Deployment Governance & Readiness Plans
-•  Workforce Enablement & Training Programs
-•  Support & Escalation Frameworks
-•  Process Flow Diagrams & Swimlane Documentation
-•  Change Control & Governance Documentation
-•  Operational Reporting & Readiness Assessments
+Partnered with customer stakeholders (Digital Guest Experience and Wireless Services), product and technical teams, operational leaders, engineering organizations, and third-party partners to establish implementation frameworks, deployment methodologies, readiness assessments, governance processes, reporting solutions, and support models.
 
 ### Results
-•  Successfully supported communications modernization across a complex operational environment
-•  Established scalable implementation, onboarding, and deployment methodologies
-•  Improved deployment readiness, stakeholder alignment, and workforce adoption
-•  Developed governance frameworks supporting multi-site deployment activities
-•  Enabled operational continuity through structured onboarding, training, support, and escalation models
-•  Established operational communications structures supporting security, maintenance, transportation, and operational teams
+
+• Successfully supported a large-scale communications modernization initiative
+
+• Established repeatable onboarding and deployment methodologies
+
+• Improved stakeholder alignment and operational readiness
+
+• Enhanced workforce adoption through structured training and enablement programs
+
+• Developed scalable governance frameworks supporting future deployment activities
+
+### Business Value & Impact
+
+Created a repeatable implementation framework that supported consistent deployment execution across multiple locations, improved operational continuity, enhanced workforce readiness, increased stakeholder visibility, and established a scalable foundation for future deployment initiatives.
+
+---
+
+## Supporting Artifacts
+
+The following artifacts have been modernized and generalized for portfolio purposes while preserving the implementation methodologies, governance structures, deliverables, and business outcomes achieved throughout the project.
+
+### Enterprise Implementation Specification Framework
+
+[Link to PDF]
+
+### RFP Compliance Requirements Validation Framework
+
+[Link to PDF]
+
 
 ### Portfolio Artifacts
 - Enterprise Implementation Specification Framework

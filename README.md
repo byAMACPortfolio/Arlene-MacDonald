@@ -13,15 +13,14 @@ linkedin.com/in/arlenemacdonald | public.tableau.com | README.md
 
 ## Problem → Solution → Methodology → Deliverables → Results
 
-**Greetings & Salutations**  I am an Implementation and Customer Onboarding professional with extensive experience leading enterprise deployments, technology transformations, customer adoption initiatives, and cross-functional implementation programs across telecommunications, mobility, technology, and customer operations environments.
+**Greetings & Salutations**  I am an Implementation and Customer Onboarding professional with extensive experience leading enterprise deployments, technology transformations, and customer adoption initiatives across telecommunications, mobility, technology, and customer operations environments.
 
-Throughout my career, I have partnered with business, technical, operational, and executive stakeholders to guide customers from onboarding and implementation through deployment, operational readiness, workforce enablement, go-live support, and long-term adoption.
+Throughout my career, I have partnered with customers, product development teams, business leaders, technical organizations, and executive stakeholders to deliver successful implementations, operational readiness programs, workforce enablement initiatives, and long-term customer success.
 
-My experience includes building implementation frameworks, governance models, training programs, operational support structures, reporting solutions, and continuous improvement initiatives that enhance operational efficiency, stakeholder alignment, customer experience, and business outcomes.
+As a servant leader, I believe in sharing knowledge and paying forward the tools, frameworks, and lessons learned throughout my career. This portfolio showcases real-world case studies, implementation artifacts, onboarding methodologies, governance frameworks, and Business Intelligence projects demonstrating how collaboration, structured problem-solving, and data-driven decision-making drive successful business outcomes.
 
-As part of my professional growth, I am expanding my Business Intelligence and analytics capabilities through TripleTen, leveraging SQL, Tableau, KPI dashboards, data visualization, and data storytelling to complement my implementation management, change management, and operational transformation expertise.
+As I continue to evolve professionally, I am expanding my Business Intelligence and Analytics toolkit through TripleTen's Business Intelligence Analytics Program, utilizing SQL, Tableau, dashboard development, KPI reporting, data visualization, and data storytelling. These projects reflect my commitment to continuous learning and demonstrate how data-driven insights can support strategic decision-making, operational excellence, and business growth.
 
-This portfolio showcases real-world case studies, implementation artifacts, governance frameworks, onboarding methodologies, and Business Intelligence projects demonstrating how structured problem-solving, stakeholder engagement, and data-driven decision-making support successful business outcomes.
 
 # Business Intelligence & Operational Analytics Portfolio
 

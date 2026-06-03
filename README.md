@@ -59,6 +59,9 @@ Real-world case studies demonstrating how implementation governance, operational
 ## Case Study: Enterprise Mobility & Communications Transformation Program
 
 ## Case Study Summary
+This case study highlights a large-scale enterprise mobility and communications transformation initiative supporting a major hospitality and entertainment organization. As Customer Implementation Manager, I partnered with customer stakeholders, product teams, technical organizations, operational leaders, and third-party partners to support customer onboarding, deployment governance, operational readiness, workforce enablement, and communications modernization efforts across a complex multi-site environment.
+
+The initiative established repeatable implementation methodologies, governance frameworks, training programs, and operational support models that improved stakeholder alignment, workforce readiness, deployment consistency, and long-term operational success.
 
 ### Situation
 A major hospitality and entertainment organization sought to modernize workforce communications and replace legacy communication systems across a complex multi-site environment.

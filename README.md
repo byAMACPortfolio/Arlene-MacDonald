@@ -90,23 +90,15 @@ Created a repeatable implementation framework that supported consistent deployme
 ---
 
 ## Supporting Artifacts
-
 The following artifacts have been modernized and generalized for portfolio purposes while preserving the implementation methodologies, governance structures, deliverables, and business outcomes achieved throughout the project.
+- Enterprise Implementation Specification Framework
+- RFP Compliance Requirements Validation Framework
 
 ### Enterprise Implementation Specification Framework
 
-[Link to PDF]
+🔗 [View Implementation Plan] (Forthcoming)
 
 ### RFP Compliance Requirements Validation Framework
-
-[Link to PDF]
-
-
-### Portfolio Artifacts
-- Enterprise Implementation Specification Framework
-- RFP Compliance Requirements Validation Framework
-  
-🔗 [View Implementation Plan] (Forthcoming)
 
 🔗 [View RFP Compliance & Requirements Validation Framework] (https://drive.google.com/file/d/1h_ssvNo9MNT2ZEktpuV1-kW7zgwwtfTg/view?usp=drive_link)
 

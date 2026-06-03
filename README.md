@@ -26,27 +26,20 @@ This portfolio showcases real-world case studies, implementation artifacts, gove
 # Business Intelligence & Operational Analytics Portfolio
 
 ## Superstore Returns Analysis
-**Tools:** Tableau, KPI Reporting, Dashboard Storytelling
-
-Analyzed return behavior across products, regions, customers, and seasonal trends to identify operational inefficiencies and customer-impact patterns.
+**Business Outsome:** Reduced business risk by identifying return drivers and operational improvement opportunities through customer, product, geographic, and seasonal trend analysis.
 
 🔗 (https://public.tableau.com/views/Superstore_Returns_Analysis_byAMAC/SuperstoreReturnDriversExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
-## Saving Superstore
-**Tools:** Tableau, Data Visualization, Business Analytics
-
-Developed dashboards analyzing profitability, advertising opportunities, and operational risk factors across products and geographic regions.
-
+## Saving Superstore Analysis
+**Business Outcome:** Increased understanding of customer behavior by identifying conversion bottlenecks and opportunities to improve digital sales performance.
 🔗[ [View Dashboard](PASTE-TABLEAU-LINK)](https://public.tableau.com/views/Superstore_ProfitLoss_Analysis_Dashboard/ProductSub-CategoryStrategy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
 ## E-Commerce Conversion Funnel Analysis
-**Tools:** SQL, Spreadsheets, Data Analysis
-
-Evaluated customer conversion funnels and retention trends to identify drop-off points and revenue opportunities.
+**Business Outcome:** Supported revenue growth and investment planning through analysis of market demand, pricing trends, occupancy performance, and neighborhood profitability.
 
 🔗(https://docs.google.com/spreadsheets/d/1rH5id1_FTRvUH5ytLuXGTPKGu7AtkbB_lnBlgT6E4Qk/edit?usp=drive_link)
 

@@ -59,22 +59,21 @@ Real-world case studies demonstrating how implementation governance, operational
 ## Case Study: Enterprise Mobility & Communications Transformation Program
 
 ## Case Study Summary
-This case study highlights a large-scale enterprise mobility and communications transformation initiative supporting a major hospitality and entertainment organization. As Customer Implementation Manager, I partnered with customer stakeholders, product teams, technical organizations, operational leaders, and third-party partners to support customer onboarding, deployment governance, operational readiness, workforce enablement, and communications modernization efforts across a complex multi-site environment.
+## Situation
 
-The initiative established repeatable implementation methodologies, governance frameworks, training programs, and operational support models that improved stakeholder alignment, workforce readiness, deployment consistency, and long-term operational success.
-
-### Situation
 A major hospitality and entertainment organization sought to modernize workforce communications and replace legacy communication systems across a complex multi-site environment.
 
-### Challenge
-The organization required a scalable communications solution capable of supporting multiple operational departments while maintaining operational continuity, workforce readiness, and guest experience standards.
+## Task (Challenge)
 
-### Action
+The organization required a scalable communications solution capable of supporting multiple operational departments while maintaining operational continuity, workforce readiness, and guest experience standards. The initiative required stakeholder alignment, deployment governance, workforce adoption, training coordination, and operational readiness across multiple locations.
+
+## Action
+
 Served as Customer Implementation Manager responsible for customer onboarding, deployment governance, operational readiness, workforce enablement, stakeholder communications, training coordination, and deployment execution support.
 
-Partnered with customer stakeholders (Digital Guest Experience and Wireless Services), product and technical teams, operational leaders, engineering organizations, and third-party partners to establish implementation frameworks, deployment methodologies, readiness assessments, governance processes, reporting solutions, and support models.
+Partnered with customer stakeholders, product development teams, technical organizations, operational leaders, engineering resources, and third-party partners to establish implementation frameworks, deployment methodologies, readiness assessments, governance processes, reporting solutions, and operational support models.
 
-### Results
+## Results
 
 • Successfully supported a large-scale communications modernization initiative
 
@@ -86,9 +85,9 @@ Partnered with customer stakeholders (Digital Guest Experience and Wireless Serv
 
 • Developed scalable governance frameworks supporting future deployment activities
 
-### Business Value & Impact
+## Business Value & Impact
 
-Created a repeatable implementation framework that supported consistent deployment execution across multiple locations, improved operational continuity, enhanced workforce readiness, increased stakeholder visibility, and established a scalable foundation for future deployment initiatives.
+Created a repeatable implementation framework that supported consistent execution across consecutive deployment initiatives, improving operational continuity, workforce readiness, stakeholder visibility, and long-term operational success.
 
 ---
 

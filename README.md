@@ -85,17 +85,17 @@ Developed scalable implementation practices focused on stakeholder alignment, wo
 
 ## Results
 
-•  Contributed to a successful RFP response that supported the award of a Master Services Agreement (MSA)
+-  Contributed to a successful RFP response that supported the award of a Master Services Agreement (MSA)
 
-•  Successfully supported a large-scale communications modernization initiative across a complex multi-site environment
+-  Successfully supported a large-scale communications modernization initiative across a complex multi-site environment
 
-•  Established repeatable onboarding, governance, and deployment methodologies
+-  Established repeatable onboarding, governance, and deployment methodologies
 
-•  Improved stakeholder alignment, deployment readiness, and operational visibility
+-  Improved stakeholder alignment, deployment readiness, and operational visibility
 
-•  Enhanced workforce adoption through structured training and workforce enablement programs
+-  Enhanced workforce adoption through structured training and workforce enablement programs
 
-•  Implemented governance, reporting, and readiness frameworks supporting future deployment activities
+-  Implemented governance, reporting, and readiness frameworks supporting future deployment activities
 
 ## Business Value & Impact
 

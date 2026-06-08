@@ -15,7 +15,7 @@ linkedin.com/in/arlenemacdonald | public.tableau.com | README.md
 
 **Greetings & Salutations!**  My name is **Arlene MacDonald** and I'm an Implementation and Customer Onboarding professional with extensive experience leading enterprise deployments, technology transformations, and customer adoption initiatives across telecommunications, mobility, technology, and customer operations environments.
 
-Throughout my career, I have partnered with customers, product development teams, business leaders, technical organizations, and executive stakeholders to deliver successful implementations, operational readiness programs, workforce enablement initiatives, and long-term customer success.
+Throughout my career, I've partnered with customers like Intel, Disneyland & Disneyeworld, Hilton, Northrop Grumman, and Nummi Toyota to name a few...  I've partnered with product development teams, business leaders, technical organizations, and executive stakeholders to deliver successful implementations, operational readiness programs, workforce enablement initiatives, and long-term customer success.
 
 As a servant leader, I believe in sharing knowledge and paying forward the tools, frameworks, and lessons learned throughout my career. This portfolio showcases real-world case studies, implementation artifacts, onboarding methodologies, governance frameworks, and Business Intelligence projects demonstrating how collaboration, structured problem-solving, and data-driven decision-making drive successful business outcomes.
 
@@ -61,33 +61,43 @@ Real-world case studies demonstrating how implementation governance, operational
 ## Case Study Summary
 ## Situation
 
-A major hospitality and entertainment organization sought to modernize workforce communications and replace legacy communication systems across a complex multi-site environment.
+A major hospitality and entertainment organization sought to modernize workforce communications and replace legacy communication systems across a complex multi-site environment. The initiative required a scalable communications solution capable of supporting diverse operational departments while maintaining workforce productivity, operational continuity, guest experience standards, emergency communications capabilities, and long-term business objectives.
 
 ## Task (Challenge)
 
-The organization required a scalable communications solution capable of supporting multiple operational departments while maintaining operational continuity, workforce readiness, and guest experience standards. The initiative required stakeholder alignment, deployment governance, workforce adoption, training coordination, and operational readiness across multiple locations.
+The organization required a comprehensive implementation strategy capable of supporting customer onboarding, requirements validation, stakeholder alignment, deployment governance, workforce readiness, operational continuity, and communications modernization across multiple locations and Lines of Business (LOBs).
+
+The challenge was to establish a repeatable implementation framework that could align business, operational, and technical stakeholders while minimizing operational disruption, supporting business continuity requirements, and preparing the organization for a successful deployment and long-term adoption of the proposed solution.
+
+Additionally, the implementation approach needed to address deployment planning, training coordination, operational support readiness, risk management, and cross-functional collaboration to support both immediate project objectives and future deployment initiatives.
 
 ## Action
 
-Served as Customer Implementation Manager responsible for customer onboarding, deployment governance, operational readiness, workforce enablement, stakeholder communications, training coordination, and deployment execution support.
+Served as Customer Implementation Manager (CIM), responsible for customer onboarding, stakeholder engagement, implementation governance, deployment planning, operational readiness, workforce enablement, training coordination, risk management, and deployment execution support.
 
-Partnered with customer stakeholders, product development teams, technical organizations, operational leaders, engineering resources, and third-party partners to establish implementation frameworks, deployment methodologies, readiness assessments, governance processes, reporting solutions, and operational support models.
+Partnered with executive sponsors, operational leaders, engineering teams, product organizations, technical resources, fulfillment teams, and third-party partners to establish implementation methodologies, governance frameworks, readiness assessments, communications plans, reporting strategies, deployment processes, and operational support models.
+
+Developed scalable implementation practices focused on stakeholder alignment, workforce adoption, business continuity, deployment readiness, risk mitigation, and continuous improvement.
 
 ## Results
 
-• Successfully supported a large-scale communications modernization initiative
+• Contributed to a successful RFP response that supported the award of a Master Services Agreement (MSA)
 
-• Established repeatable onboarding and deployment methodologies
+• Successfully supported a large-scale communications modernization initiative across a complex multi-site environment
 
-• Improved stakeholder alignment and operational readiness
+• Established repeatable onboarding, governance, and deployment methodologies
 
-• Enhanced workforce adoption through structured training and enablement programs
+• Improved stakeholder alignment, deployment readiness, and operational visibility
 
-• Developed scalable governance frameworks supporting future deployment activities
+• Enhanced workforce adoption through structured training and workforce enablement programs
+
+• Implemented governance, reporting, and readiness frameworks supporting future deployment activities
 
 ## Business Value & Impact
 
-Created a repeatable implementation framework that supported consistent execution across consecutive deployment initiatives, improving operational continuity, workforce readiness, stakeholder visibility, and long-term operational success.
+Created a scalable implementation framework that supported consistent execution across multiple deployment initiatives while improving stakeholder alignment, operational readiness, workforce adoption, and business continuity. The methodology incorporated governance, onboarding, training, risk management, deployment planning, and performance measurement practices that helped establish a repeatable model for future enterprise implementations.
+
+The lessons learned from this engagement became the foundation for a modernized implementation framework designed to support today's customer onboarding, operational readiness, workforce enablement, deployment governance, and enterprise transformation initiatives.
 
 ---
 
@@ -104,7 +114,7 @@ The following artifacts have been modernized and generalized for portfolio purpo
 
 ### RFP Compliance Requirements Validation Framework
 
-🔗 [View RFP Compliance & Requirements Validation Framework] (https://drive.google.com/file/d/1h_ssvNo9MNT2ZEktpuV1-kW7zgwwtfTg/view?usp=drive_link)
+🔗 [View RFP Compliance & Requirements Validation Framework] (https://drive.google.com/file/d/1EoNFmKd-IiC7F1T0nOJya2v3F2siOiJ3/view?usp=drive_link))
 
 ---
 

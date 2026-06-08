@@ -60,7 +60,7 @@ Real-world case studies demonstrating how implementation governance, operational
 
 ---
 
-## Case Study: Enterprise Mobility & Communications Transformation Program
+## Case Study: ⭐ Portfolio Highlight: Enterprise Mobility & Communications Transformation Framework
 
 ## Case Study Summary
 ## Situation

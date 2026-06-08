@@ -13,17 +13,21 @@ linkedin.com/in/arlenemacdonald | public.tableau.com | README.md
 
 ## Problem → Solution → Methodology → Deliverables → Results
 
-**Greetings & Salutations!**  My name is **Arlene MacDonald** and I'm an Implementation and Customer Onboarding professional with extensive experience leading enterprise deployments, technology transformations, and customer adoption initiatives across telecommunications, mobility, technology, and customer operations environments.
+**Greetings & Salutations!**  
 
-Throughout my career, I've partnered with customers like Intel, Disneyland & Disneyeworld, Hilton, Northrop Grumman, and Nummi Toyota to name a few...  I've partnered with product development teams, business leaders, technical organizations, and executive stakeholders to deliver successful implementations, operational readiness programs, workforce enablement initiatives, and long-term customer success.
+My name is **Arlene MacDonald**, and I am an Implementation, Customer Onboarding, and Program Management professional with extensive experience leading enterprise deployments, technology transformations, operational readiness initiatives, and customer adoption programs across telecommunications, mobility, technology, and customer operations environments.
 
-As a servant leader, I believe in sharing knowledge and paying forward the tools, frameworks, and lessons learned throughout my career. This portfolio showcases real-world case studies, implementation artifacts, onboarding methodologies, governance frameworks, and Business Intelligence projects demonstrating how collaboration, structured problem-solving, and data-driven decision-making drive successful business outcomes.
+Throughout my career, I have partnered with organizations including Intel, Disneyland, Hilton, Northrop Grumman, and NUMMI Toyota, collaborating with executive stakeholders, business leaders, product development teams, technical organizations, and operational teams to deliver successful implementations, workforce enablement programs, governance frameworks, and long-term customer success strategies.
 
-As I continue to evolve professionally, I am expanding my Business Intelligence and Analytics toolkit through TripleTen's Business Intelligence Analytics Program, utilizing SQL, Tableau, dashboard development, KPI reporting, data visualization, and data storytelling. These projects reflect my commitment to continuous learning and demonstrate how data-driven insights can support strategic decision-making, operational excellence, and business growth.
+As a servant leader, I believe in sharing knowledge and paying forward the lessons learned, methodologies, and best practices gained throughout my career. This portfolio showcases real-world case studies, implementation frameworks, customer onboarding strategies, governance models, operational readiness programs, deployment methodologies, and Business Intelligence projects that demonstrate how structured problem-solving, stakeholder alignment, and data-driven decision-making contribute to successful business outcomes.
 
-Thank you for stopping by!
+A recurring theme throughout my work is transforming complex business challenges into repeatable, scalable solutions. Whether supporting enterprise technology deployments, operational transformation initiatives, customer onboarding programs, or analytics projects, my focus remains the same: aligning people, processes, technology, and business objectives to deliver measurable results.
 
--Arlene
+As I continue to evolve professionally, I am expanding my Business Intelligence and Analytics expertise through TripleTen's Business Intelligence Analytics Program, leveraging SQL, Tableau, dashboard development, KPI reporting, data visualization, and data storytelling to transform data into actionable insights. These projects reflect my commitment to continuous learning and demonstrate how analytics can support strategic decision-making, operational excellence, customer success, and business growth.
+
+Thank you for visiting my portfolio. I hope the frameworks, case studies, and lessons learned shared here provide value to fellow project managers, implementation professionals, business analysts, customer success leaders, and organizations navigating complex transformation initiatives.
+
+– Arlene MacDonald
 
 
 ---

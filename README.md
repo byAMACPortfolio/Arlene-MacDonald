@@ -118,7 +118,7 @@ The following artifacts have been modernized and generalized for portfolio purpo
 
 ### RFP Compliance Requirements Validation Framework
 
-🔗 [View RFP Compliance & Requirements Validation Framework] (https://drive.google.com/file/d/1EoNFmKd-IiC7F1T0nOJya2v3F2siOiJ3/view?usp=drive_link))
+🔗 [View RFP Compliance & Requirements Validation Framework] ([https://drive.google.com/file/d/1EoNFmKd-IiC7F1T0nOJya2v3F2siOiJ3/view?usp=drive_link)](https://drive.google.com/file/d/1EoNFmKd-IiC7F1T0nOJya2v3F2siOiJ3/view?usp=drive_link)
 
 ---
 

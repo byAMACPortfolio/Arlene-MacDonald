@@ -114,7 +114,7 @@ The following artifacts have been modernized and generalized for portfolio purpo
 
 ### Enterprise Implementation Specification Framework
 
-🔗 [View Implementation Plan] (Forthcoming)
+🔗 [View Implementation Plan] [Available Upon Request!]
 
 ### RFP Compliance Requirements Validation Framework
 
@@ -190,7 +190,7 @@ A proof-of-concept (POC) enterprise mobility deployment was developed to validat
 
 •  Enterprise Implementation Specification Framework
 
-🔗 [View Implementation Plan] (placeholder)
+🔗 [View Implementation Plan] [Available Upon Request!]
 
 ---
 

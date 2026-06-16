@@ -59,6 +59,41 @@ Thank you for visiting my portfolio. I hope the frameworks, case studies, and le
 Real-world case studies demonstrating how implementation governance, operational readiness, customer onboarding, change management, and analytics frameworks are used to solve complex business challenges.
 
 ---
+# Transit PayFare Forward™ Initiative
+
+## Phase 1: Discovery & Assessment Case Study
+
+### Situation
+
+Regional transit agencies are continuing to modernize fare collection systems to improve rider experience, expand payment options, enhance reporting capabilities, and support operational efficiency. Publicly available information indicates that the City of Phoenix and Valley Metro are pursuing Phase 2 enhancements to their fare collection ecosystem, including mobile wallets, open payments, fare capping, and reporting modernization.
+
+### Task (Challenge)
+
+The objective of this assessment is to develop a foundational understanding of the current operating environment, governance structure, stakeholder relationships, payment ecosystem, reporting capabilities, and modernization goals. The challenge is to establish a fact-based understanding of a complex multi-agency transit environment using publicly available information while identifying assumptions, gaps, risks, and opportunities requiring further analysis.
+
+### Actions
+
+* Reviewed publicly available feasibility studies and transit modernization documentation.
+* Analyzed governance structures, stakeholder relationships, and intergovernmental agreements.
+* Identified current-state observations and documented known facts.
+* Developed an assumptions validation framework.
+* Established assessment scope and areas of focus.
+* Created process flow inventories to better understand payment, reporting, governance, and operational lifecycles.
+* Initiated gap analysis activities comparing current-state operations to future-state modernization objectives.
+* Organized findings into a structured project repository to support ongoing discovery and analysis.
+
+### Results
+
+Phase 1 discovery activities established an initial understanding of the fare collection ecosystem, key stakeholders, modernization objectives, reporting considerations, governance relationships, and potential areas for further investigation. The assessment framework created during this phase will serve as the foundation for future analysis, assumptions validation, gap identification, and program understanding.
+
+### Status
+
+Phase 1 – Discovery & Assessment
+
+**In Progress**
+
+Case Study and supporting artifacts available upon request.
+
 
 ## Case Study: ⭐ Portfolio Highlight: Enterprise Mobility & Communications Transformation Framework
 

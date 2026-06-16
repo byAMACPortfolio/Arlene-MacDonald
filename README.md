@@ -15,7 +15,7 @@ linkedin.com/in/arlenemacdonald | public.tableau.com | README.md
 
 **Greetings & Salutations!**  
 
-My name is **Arlene MacDonald**, and I am an Implementation, Customer Onboarding, and Program Management professional with extensive experience leading enterprise deployments, technology transformations, operational readiness initiatives, and customer adoption programs across telecommunications, mobility, technology, and customer operations environments.
+My name is **Arlene MacDonald**, and I am an Implementation, Customer Onboarding, and Program Management professional with 20+ years experience leading enterprise deployments, technology transformations, operational readiness initiatives, and customer adoption programs across telecommunications, mobility, technology, and customer operations environments.
 
 Throughout my career, I have partnered with organizations including Intel, Disneyland, Hilton, Northrop Grumman, and NUMMI Toyota, collaborating with executive stakeholders, business leaders, product development teams, technical organizations, and operational teams to deliver successful implementations, workforce enablement programs, governance frameworks, and long-term customer success strategies.
 

@@ -94,6 +94,7 @@ Phase 1 – Discovery & Assessment
 
 Case Study and supporting artifacts available upon request.
 
+---
 
 ## Case Study: ⭐ Portfolio Highlight: Enterprise Mobility & Communications Transformation Framework
 
